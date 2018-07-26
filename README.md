@@ -20,13 +20,8 @@ This is a small but strong implementation of Sockets with reactjs and anyone who
 
 Here are few screen after you start server and also webpack.
 
-  1. As you go to differnt browers with app url
   [![N|Solid](https://preview.ibb.co/bQw2do/Selection_032.png)]()
-  2. how many screens are opened?
-[![N|Solid](https://preview.ibb.co/cfbePT/Selection_033.png)]()
-  3. Both users joined chat.
-[![N|Solid](https://preview.ibb.co/i4rDjT/Selection_034.png)]()
-  4. Messages are being updated on both sides.
-[![N|Solid](https://preview.ibb.co/egQOjT/Selection_035.png)]()
-  5. Info about users who joined sockets.
-[![N|Solid](https://image.ibb.co/eZtXdo/Selection_037.png)]()
+  [![N|Solid](https://preview.ibb.co/cfbePT/Selection_033.png)]()
+  [![N|Solid](https://preview.ibb.co/i4rDjT/Selection_034.png)]()
+  [![N|Solid](https://preview.ibb.co/egQOjT/Selection_035.png)]()
+  [![N|Solid](https://image.ibb.co/eZtXdo/Selection_037.png)]()
