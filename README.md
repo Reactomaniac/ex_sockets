@@ -13,7 +13,7 @@ This is a small but strong implementation of Sockets with reactjs and anyone who
 
 ### Stack
 
-   - ReachJS
+   - ReactJS
    - Socket.io
    - ExpressJS
    - Webpack
